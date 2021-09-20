@@ -11,7 +11,7 @@ Berdasarkan rumusan masalah diatas kami bertujuan untuk membuat platform yang me
 
 ## Deskripsi
 Fitur-fitur yang diberikan oleh bandar ilkom seperti:
-1. 'bandar materi', tempat dimana kita bisa mencari-cari materi yang sesuai dengan topik atau mata kuliah yang kita cari.
+1. 'bandar materi', tempat dimana kita bisa mencari-cari materi yang sesuai dengan topik atau mata kuliah yang kita butuhkan.
 2. 'bandar soal', disini mahasiswa dapat mengerjakan berbagai variasi soal, dan mendapatkan pembahasan dari soal-soal yang telah dikerjakan.
 3. 'DQA' atau 'Discussion, Question and Answer', dimana disini user bisa membuat post dimana dia bertanya atau mengajak diskusi dan user lain bisa merespon di kolom komentar.
 4. 'Tau gak sih?' disini akan ditampilkan berbagai macam fakta-fakta tentang programing, komputer dan mahasiswa-mahasiswa ilmu komputer 
